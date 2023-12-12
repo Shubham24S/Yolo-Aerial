@@ -1,0 +1,6 @@
+train: C:\Users\Shubham\yolov8_custom\train
+val: C:\Users\Shubham\yolov8_custom\val
+
+nc: 3
+
+names: ["aeroplane","bird","helicopter"]
